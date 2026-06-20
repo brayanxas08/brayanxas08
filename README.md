@@ -41,4 +41,5 @@
 
 📍 Caldas, Antioquia, Colombia
 
----Disfruta el presente y construye tu futuro con responsabilidad.
+---
+Disfruta el presente y construye tu futuro con responsabilidad.
