@@ -1,4 +1,4 @@
-# Hola, soy Brayan Palacios Guzmán 👋
+# Hola, soy Brayan 
 
 🎓 Aprendiz de Análisis y Desarrollo de Software (ADSO) en el SENA.
 
@@ -32,12 +32,7 @@
 - Ejercicios y fundamentos de Python
 - Bases de datos relacionales
 - Proyectos ADSO
-
-## Contacto
-
-📧 brayanxas08@gmail.com
-
-📱 WhatsApp: https://wa.me/573237092681
+---
 
 📍 Caldas, Antioquia, Colombia
 
