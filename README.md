@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hola, soy Brayan Palacios Guzmán 👋
 
-<!--
-**brayanxas08/brayanxas08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aprendiz de Análisis y Desarrollo de Software (ADSO) en el SENA.
 
-Here are some ideas to get you started:
+💻 Apasionado por el desarrollo de software, la programación y el análisis de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Actualmente enfocado en fortalecer mis habilidades en Python, SQL, Git y Ciencia de Datos mediante proyectos prácticos y aprendizaje continuo.
+
+🚀 Mi objetivo profesional es convertirme en Científico de Datos y contribuir al desarrollo de soluciones basadas en datos.
+
+## Tecnologías y Herramientas
+
+- Python
+- Java
+- PHP
+- SQL (MySQL)
+- Git & GitHub
+- UML
+- HTML & CSS
+
+## Actualmente aprendiendo
+
+- Pandas
+- NumPy
+- Power BI
+- Visualización de datos
+- Machine Learning
+
+## Proyectos Destacados
+
+- Sistema de Inventario
+- Ejercicios y fundamentos de Python
+- Bases de datos relacionales
+- Proyectos ADSO
+
+## Contacto
+
+📧 tu_correo@ejemplo.com
+
+📱 WhatsApp: https://wa.me/57XXXXXXXXXX
+
+📍 Caldas, Antioquia, Colombia
+
+---
+*"La disciplina supera al talento cuando el talento no es disciplinado."*
