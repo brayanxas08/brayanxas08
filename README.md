@@ -35,11 +35,10 @@
 
 ## Contacto
 
-📧 tu_correo@ejemplo.com
+📧 brayanxas08@gmail.com
 
-📱 WhatsApp: https://wa.me/57XXXXXXXXXX
+📱 WhatsApp: https://wa.me/573237092681
 
 📍 Caldas, Antioquia, Colombia
 
----
-*"La disciplina supera al talento cuando el talento no es disciplinado."*
+---Disfruta el presente y construye tu futuro con responsabilidad.
